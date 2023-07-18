@@ -1,0 +1,21 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Main" type="Application" factoryName="Application" editBeforeRun="true" singleton="false" nameIsGenerated="true">
+    <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../Java/jdk-20" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <option name="MAIN_CLASS_NAME" value="Chess.Main" />
+    <module name="untitled2" />
+    <selectedOptions>
+      <option name="beforeRunTasks" />
+      <option name="redirectInput" />
+      <option name="vmParameters" />
+    </selectedOptions>
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Chess" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="Chess.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2" />
+  </configuration>
+</component>
